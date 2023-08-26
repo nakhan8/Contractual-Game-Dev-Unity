@@ -24,8 +24,8 @@ Please open directly after opening the project to start the game.
  3. run/double-click on 2DGame.exe
 
 # Requirements
-1.You need the following setup: Unity Compatible editor
-2.2D packages from the Package Manager in Unity
+1. You need the following setup: Unity Compatible editor
+2. 2D packages from the Package Manager in Unity
 3. Cinematic studio to get Cinemachine package
 
 # Code
