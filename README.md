@@ -17,14 +17,10 @@ You can either clone this repository, or download the Full Package directly as a
  1. Go to 2DGame\2DGame\Assets\Scenes
  2. Click SampleScene.unity.
 
-# Open Application
- 1. Go to project structure.
- 2. Click the 2DGame.exe.
-
 # Use
 Please open directly after opening the project to start the game.
  1. Download as zip
- 2. Navigate to the Builds folder
+ 2. Navigate to the project structure.
  3. run/double-click on 2DGame.exe
 
 # Requirements
